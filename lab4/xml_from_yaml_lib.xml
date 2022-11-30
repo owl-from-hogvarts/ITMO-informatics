@@ -1,0 +1,43 @@
+<day>
+  <day_name>Ср</day_name>
+  <lessons>
+    <address>Кронверкский пр., д.49, лит.А</address>
+    <isEvenWeek>False</isEvenWeek>
+    <lesson_format>Очно - дистанционный</lesson_format>
+    <name>Программирование(Лаб)</name>
+    <room>2306/1</room>
+    <teacher>Лисицина Василиса Васильевна</teacher>
+    <time>
+      <end>15:00</end>
+      <start>13:30</start>
+      <weeks>3</weeks>
+      <weeks>5</weeks>
+      <weeks>7</weeks>
+      <weeks>9</weeks>
+      <weeks>11</weeks>
+      <weeks>13</weeks>
+      <weeks>15</weeks>
+      <weeks>17</weeks>
+    </time>
+  </lessons>
+  <lessons>
+    <address>Кронверкский пр., д.49, лит.А</address>
+    <isEvenWeek>False</isEvenWeek>
+    <lesson_format>Очно - дистанционный</lesson_format>
+    <name>Программирование(Лаб)</name>
+    <room>2306/1</room>
+    <teacher>Лисицина Василиса Васильевна</teacher>
+    <time>
+      <end>16:50</end>
+      <start>15:20</start>
+      <weeks>3</weeks>
+      <weeks>5</weeks>
+      <weeks>7</weeks>
+      <weeks>9</weeks>
+      <weeks>11</weeks>
+      <weeks>13</weeks>
+      <weeks>15</weeks>
+      <weeks>17</weeks>
+    </time>
+  </lessons>
+</day>

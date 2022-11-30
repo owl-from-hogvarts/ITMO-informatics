@@ -1,0 +1,39 @@
+day:
+  day name: Ср
+  lessons:
+    - time:
+        start: "13:30"
+        end: "15:00"
+        weeks:
+          - 3
+          - 5
+          - 7
+          - 9
+          - 11
+          - 13
+          - 15
+          - 17
+      room: 2306/1
+      address: Кронверкский пр., д.49, лит.А
+      name: Программирование(Лаб)
+      isEvenWeek: false
+      teacher: Лисицина Василиса Васильевна
+      lesson format: Очно - дистанционный
+    - time:
+        start: "15:20"
+        end: "16:50"
+        weeks:
+          - 3
+          - 5
+          - 7
+          - 9
+          - 11
+          - 13
+          - 15
+          - 17
+      room: 2306/1
+      address: Кронверкский пр., д.49, лит.А
+      name: Программирование(Лаб)
+      isEvenWeek: false
+      teacher: Лисицина Василиса Васильевна
+      lesson format: Очно - дистанционный
