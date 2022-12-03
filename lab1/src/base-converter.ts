@@ -1,6 +1,7 @@
 import inquirer from "inquirer";
 import chalk from "chalk";
 
+const ACCURACY = 5
 
 // modify base string class to add count() method
 declare global {
@@ -211,7 +212,7 @@ try {
   const result = new UniversalNumber(
     answers["from-number"],
     answers["from-base"]
-  ).convertToBase(answers["to-base"]);
+  ).convertToBase(answers["to-base"], ACCURACY);
 
   if (result[1].length === 0) {
     printColorized(result[0]);
